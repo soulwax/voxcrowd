@@ -1,0 +1,11 @@
+name: voxcrowd
+description: "Pure Dart reciprocal crowd collision avoidance (ORCA/RVO2), Reynolds steering behaviours, boid flocking rules, and tactical formation slot planning."
+version: 0.1.0
+repository: https://github.com/soulwax/voxcrowd
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
