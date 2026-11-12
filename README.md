@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxcrowd logo"/>
+</p>
+
 # voxcrowd
 
 Pure Dart reciprocal crowd collision avoidance (ORCA / RVO2), Reynolds steering, boid flocking, and tactical formations.
